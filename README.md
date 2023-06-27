@@ -1,2 +1,3 @@
-# alanmecca
-This is Alan Mecca's Personal Webpage
+# WELCOME
+
+##You have stumbled upon Alan's webpage
